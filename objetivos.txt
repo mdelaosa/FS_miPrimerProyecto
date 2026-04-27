@@ -1,1 +1,3 @@
 
+1. Controlar de desarrollo BE
+2. Recuperar los conocimientos en FE y mejorarlos
