@@ -1,3 +1,4 @@
 1. Conocimientos básicos de HTML y CSS
 1. Conocimientos básicos de Git.
 3. Conocimientos muy básicos de bases de datos.
+4. Conocimientos básicos de JS.
