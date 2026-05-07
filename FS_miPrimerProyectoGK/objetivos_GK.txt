@@ -1,1 +1,2 @@
 Aprendiendo Git GK
+Controlando la terminal GK
